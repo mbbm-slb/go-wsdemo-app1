@@ -1,0 +1,6 @@
+[submodule "ext/lib1"]
+	path = ext/lib1
+	url = ./ext/lib1/.git
+[submodule "ext/lib2"]
+	path = ext/lib2
+	url = ./ext/lib2/.git
