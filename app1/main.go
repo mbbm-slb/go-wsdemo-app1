@@ -2,8 +2,9 @@ package main
 
 import (
   "fmt"
+  "mbbm-vas.com/go/wsdemo/lib1"
 )
 
 func main() {
-  fmt.Println("Hello from app1")
+  fmt.Println("Hello from lib1", lib1.Text())
 }

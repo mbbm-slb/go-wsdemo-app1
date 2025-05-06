@@ -1,0 +1,7 @@
+go 1.24.2
+
+use (
+	./app1
+	./ext/lib1
+	./ext/lib2
+)
